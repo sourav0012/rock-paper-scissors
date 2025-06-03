@@ -15,7 +15,6 @@ A simple Rock Paper Scissors game using HTML, CSS, and JavaScript
 ### 🎨 CSS
 - Styling game layout and components
 - Color transitions for result messages
-- Basic flexbox or grid layout (if used)
 
 ### ⚙️ JavaScript
 - DOM Manipulation (`querySelector`, `innerText`, `style`)
